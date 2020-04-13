@@ -1,8 +1,10 @@
 Esta es la vida y obra maestra de Roberto Borbolla Sánchez
 
 Tengo 30 años
-
+ 
 Mañana nos enfocaremos en su vida laboral.
+
+El empleado agregó una decripción
 
 <<<<<<< HEAD
 Esto es un experimento.
