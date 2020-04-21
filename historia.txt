@@ -6,8 +6,4 @@ Mañana nos enfocaremos en su vida laboral.
 
 El empleado agregó una decripción
 
-<<<<<<< HEAD
-Esto es un experimento.
-=======
 Esto es un experimento para probar la potencia de Git JAJAJAJA.
->>>>>>> cabecera
